@@ -1,0 +1,61 @@
+body{
+    background-image: url(../cbc.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    height:100%;
+}
+body h1{
+    font-size: 55px;
+    color:black;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+div h2{
+    font-size:20px;
+    color:inherit;
+    text-transform: inherit;
+}
+div h3{
+    font-size:20px;
+    color:inherit;
+    text-transform: inherit;
+}
+div{
+    text-align: center;
+    position: relative;
+    text-align:justify;
+}
+form label{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div h1{
+ font-family: calibri;
+ color:lightslategrey;
+
+}
+div ul li{
+    list-style-type:none;
+  
+}
+ul li a{
+    color:whitesmoke;
+    font-size:20px;
+
+}
+ul li a:hover{
+    color:pink;
+}
+img {
+
+   float:right;
+   padding-right: 150px;
+}
+div p{
+    font-family:inherit;
+    color:black;
+    font-size:25px;
+
+}

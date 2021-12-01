@@ -1,0 +1,44 @@
+body{
+    margin:0%;
+    padding:0%;
+    background-image: url(../ab.jpg);
+    background-size:cover;
+}
+.about h1{
+    font-size:30px;
+    font-family:Arial;
+    text-align:center;
+}
+.about h2{
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif;
+    text-align:left;
+    color:hotpink;
+}
+.about img{
+    float:left;
+    height:70px;
+    width:70px;
+    padding-left: 50px;
+}
+.about h3{
+    font-family:Arial;
+    font-size:25px;
+    color:black;
+}
+.about h4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-sixe:20px;
+    color:violet;
+}
+.about h5{
+    font-size:30px;
+    text-align:center;
+    color:black;
+}
+.about h5 a{
+    color:blue;
+}
+.about h5 a:hover{
+    color:pink;
+}

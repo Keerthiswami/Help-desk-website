@@ -1,0 +1,33 @@
+body{
+    margin:0%;
+    padding:0%;
+    background-image:url(../contact.jpg);
+    background-size:cover;
+
+}
+
+ h1{
+    font-family:Arial;
+    font-size:30px;
+    color:black;
+    text-align:center;
+}
+.contact ul{
+    list-style-type:none;
+}
+
+.contact h2{
+    font-family:cursive;
+    text-align:center;
+    color:black;
+ 
+}
+.contact h2 img{
+    height: 50px;
+    width:50px;
+    float:inline-start;
+   
+}
+.contact h2 a:hover{
+    color:#fff;
+}
